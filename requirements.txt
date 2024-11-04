@@ -1,0 +1,13 @@
+anthropic
+openai
+transformers
+datasets
+peft
+together
+tqdm
+scipy
+scikit-learn
+sentence-transformers
+bitsandbytes
+fastapi
+uvicorn
