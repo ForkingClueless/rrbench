@@ -6,8 +6,8 @@
 Clone both the benchmark and the artifacts in the same directory. The benchmark will automatically find the artifacts. Alternatively if you want to write / read artifacts from a random location, you need to set the environment variable `ARTIFACTS_ROOT` to the location of the artifacts repository.
 
 ```
-git clone https://github.com/ForkingClueless/rapidresponsebench.git
-git clone https://github.com/ForkingClueless/rapidresponseartifacts.git
+git clone https://github.com/rapidresponsebench/rapidresponsebench.git
+git clone https://github.com/rapidresponsebench/rapidresponseartifacts.git
 ```
 
 Setting up a virtual environment and installing dependencies (including `rapidresponsebench`):
